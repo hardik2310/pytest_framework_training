@@ -18,7 +18,6 @@ class WebDriverWrapper:
         elif browser_name == "ff":
             self.driver = webdriver.Firefox()
         else:
-
             # opt = webdriver.ChromeOptions()
             # opt.add_argument("start-maximized")
             # self.driver = webdriver.Chrome(opt)

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="224ed01d-28cb-47ce-9143-b5e06f19a892" name="Default Changelist" comment="Added webdriver_keyword file and used it">
+      <change beforePath="$PROJECT_DIR$/framework_demo/base/webdriver_listner.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework_demo/base/webdriver_listner.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MReqIGzdSKzYpVtsNUBccov4T0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/POM_demo" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python automation training\hybrid_framework\POM_demo" />
+      <recent name="D:\python automation training\hybrid_framework\utilities" />
+      <recent name="D:\python automation training\hybrid_framework\test_data" />
+      <recent name="D:\python automation training\framework_pytest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python automation training\hybrid_framework\reference\auto_suggetion" />
+      <recent name="D:\python automation training\hybrid_framework\reference" />
+      <recent name="D:\python automation training\hybrid_framework\python_caption_project\base" />
+      <recent name="D:\python automation training\hybrid_framework\framework_demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_login.TestLogin">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="framework_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python311\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="framework_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM_demo/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLoginUI.test_login_placeholders" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="framework_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM_demo/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLoginUI.test_login_placeholders&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin.test_invalid_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="framework_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM_demo/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_invalid_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin.test_invalid_login_with_csv" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="framework_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM_demo/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_invalid_login_with_csv&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin.test_valid_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="framework_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM_demo/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_valid_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_login.TestLogin" />
+        <item itemvalue="Python tests.pytest for test_login.TestLogin.test_invalid_login_with_csv" />
+        <item itemvalue="Python tests.pytest for test_login.TestLogin.test_invalid_login" />
+        <item itemvalue="Python tests.pytest for test_login.TestLogin.test_valid_login" />
+        <item itemvalue="Python tests.pytest for test_login.TestLoginUI.test_login_placeholders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="224ed01d-28cb-47ce-9143-b5e06f19a892" name="Default Changelist" comment="" />
+      <created>1677735012035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677735012035</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first pytest exer">
+      <created>1677737237845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677737237845</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update changes">
+      <created>1677737443580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677737443580</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update changes&#10;Added login header test">
+      <created>1677738522100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677738522100</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added login header test">
+      <created>1677738737249</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677738737249</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added fixture test">
+      <created>1678081722802</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678081722802</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added base package">
+      <created>1678086608530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678086608530</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added invalid login tests">
+      <created>1678163757608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678163757608</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added invalid login tests">
+      <created>1678163807565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678163807565</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added invalid login tests">
+      <created>1678163881235</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678163881235</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added parametrize tests">
+      <created>1678167122110</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678167122110</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added employee tests">
+      <created>1678173118825</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678173118825</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added employee tests">
+      <created>1678340271168</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678340271168</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added file handling tests">
+      <created>1678432348244</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678432348244</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated Code with reading json for browser config">
+      <created>1678980184377</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678980184377</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated Code with reading json for browser config">
+      <created>1678981904028</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678981904028</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added POM model">
+      <created>1679028708316</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679028708316</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added invalid login tests with POM">
+      <created>1679029777096</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679029777096</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added webdriver_keyword file and used it">
+      <created>1679037459934</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679037459934</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first pytest exer" />
+    <MESSAGE value="update changes" />
+    <MESSAGE value="update changes&#10;Added login header test" />
+    <MESSAGE value="Added login header test" />
+    <MESSAGE value="Added fixture test" />
+    <MESSAGE value="Added base package" />
+    <MESSAGE value="Added invalid login tests" />
+    <MESSAGE value="Added parametrize tests" />
+    <MESSAGE value="Added employee tests" />
+    <MESSAGE value="Added file handling tests" />
+    <MESSAGE value="Updated Code with reading json for browser config" />
+    <MESSAGE value="Added POM model" />
+    <MESSAGE value="Added invalid login tests with POM" />
+    <MESSAGE value="Added webdriver_keyword file and used it" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added webdriver_keyword file and used it" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1678430201175">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1678430201175" />
+    <state x="430" y="248" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1678163577619">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="248" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1280.680@0.0.1280.680" timestamp="1678163577619" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1677737203292">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1677737203292" />
+    <state x="465" y="261" key="Github.CreateGistDialog" timestamp="1677736943769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="465" y="261" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1677736943769" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1679291190765">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1679291190765" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1679291190764">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1679291190764" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1679291190762">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1679291190761" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1679291190764">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1679291190764" />
+    <state x="422" y="43" key="RollbackChangesDialog" timestamp="1678169711173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="43" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1678169711173" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1677736979694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1677736979694" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1679037469627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1679037469627" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
