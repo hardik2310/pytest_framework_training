@@ -1,0 +1,3 @@
+username,password,expected_error
+bala,bala123,Invalid credentials
+ken,ken123,Invalid credentials
